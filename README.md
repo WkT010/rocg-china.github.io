@@ -1,3 +1,2 @@
 # republic-of-crypto-gamers
-Buy games with USDT/BTC in our ROCG website! Preview project.
-Web: rocg.github.io
+<h1>Buy games with USDT/BTC in our ROCG website! Preview project.</h1>
